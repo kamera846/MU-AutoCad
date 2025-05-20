@@ -1,0 +1,571 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:Plan 1-Card DI 1]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=Card DI 1
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-Card DI 2]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=Card DI 2
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-Card DI 3]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=Card DI 3
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-Card DI 1]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=Card DI 1
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-Card DI 2]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=Card DI 2
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-Card DI 3]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=Card DI 3
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-Card DI 1]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=Card DI 1
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-Card DI 2]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=Card DI 2
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-Card DI 3]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=Card DI 3
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-Card DI 4]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=Card DI 4
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-Card DO 1]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=Card DO 1
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-Card DO 2]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=Card DO 2
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-Card DO 3]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=Card DO 3
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-Card DO 1]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=Card DO 1
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-Card DO 2]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=Card DO 2
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-Card DO 1]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=Card DO 1
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-Card DO 2]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=Card DO 2
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-Card DO 3]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=Card DO 3
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-TG_S1_M01]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=TG_S1_M01
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-TG_S2_M01]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=TG_S2_M01
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-TG_S3_M01]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=TG_S3_M01
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-TG_WH_MIX_M01]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=TG_WH_MIX_M01
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-TG_MIX_M01 Part 1]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=TG_MIX_M01 Part 1
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-TG_MIX_M01 Part 2]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=TG_MIX_M01 Part 2
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-TG_HP_MIX_M01]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=TG_HP_MIX_M01
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-XP_S3.2_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=XP_S3.2_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-XP_S4_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=XP_S4_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-XP_S5_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=XP_S5_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-XP_S6_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=XP_S6_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-XP_JB01_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=XP_JB01_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-XP_JB02_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=XP_JB02_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-XP_WH_MIX_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=XP_WH_MIX_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-XP_MIX_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=XP_MIX_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-XP_HP_MIX_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=XP_HP_MIX_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-XP_XTTG_MIX_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=XP_XTTG_MIX_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-NS_S07_M03]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=NS_S07_M03
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-NS_S08_M03]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=NS_S08_M03
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-NS_S09_M03]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=NS_S09_M03
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-NS_S10_M03]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=NS_S10_M03
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-NS_WH_MIX_M03]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=NS_WH_MIX_M03
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-NS_MIX_M03 Part 1]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=NS_MIX_M03 Part 1
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-NS_MIX_M03 Part 2]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=NS_MIX_M03 Part 2
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-NS_HP_MIX_M03]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=NS_HP_MIX_M03
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-0TG_S1_M01]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=0TG_S1_M01
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-0TG_S2_M01]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=0TG_S2_M01
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-0TG_S3_M01]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=0TG_S3_M01
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-OTG_WH_MIX_M01]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=OTG_WH_MIX_M01
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-OTG_MIX_M01]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=OTG_MIX_M01
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-OTG_HP_MIX_M01]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=OTG_HP_MIX_M01
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-OTG_RUN_INV_MIX_M01]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=OTG_RUN_INV_MIX_M01
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-OTG_SCALE_MIX_M01]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=OTG_SCALE_MIX_M01
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-PILOT_LAMP_ALL Part 1]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=PILOT_LAMP_ALL Part 1
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 1-PILOT_LAMP_ALL Part 2]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Layout=PILOT_LAMP_ALL Part 2
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-OXP_S03.2_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=OXP_S03.2_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-OXP_S04_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=OXP_S04_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-OXP_S05_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=OXP_S05_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-OXP_JB01_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=OXP_JB01_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-OXP_JB02_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=OXP_JB02_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-OXP_WH_MIX_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=OXP_WH_MIX_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-OXP_MIX_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=OXP_MIX_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-OXP_HP_MIX_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=OXP_HP_MIX_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-OTG_RUN_INV_MIX_M02 Part 1]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=OTG_RUN_INV_MIX_M02 Part 1
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-OTG_RUN_INV_MIX_M02 Part 2]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=OTG_RUN_INV_MIX_M02 Part 2
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-OTG_SCALE_MIX_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=OTG_SCALE_MIX_M02
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-OTG_PINCH_SILO]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=OTG_PINCH_SILO
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 2-RELAY]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Layout=RELAY
+Setup=Mu Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-ONS_S07_M03]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=ONS_S07_M03
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-ONS_S08_M03]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=ONS_S08_M03
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-ONS_S09_M03]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=ONS_S09_M03
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-ONS_S10_M03]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=ONS_S10_M03
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-ONS_WH_MIX_M03]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=ONS_WH_MIX_M03
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-ONS_MIX_M03]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=ONS_MIX_M03
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-ONS_HP_MIX_M03]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=ONS_HP_MIX_M03
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-OTG_RUN_INV_MIX_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=OTG_RUN_INV_MIX_M02
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Plan 3-OTG_SCALE_MIX_M02]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=OTG_SCALE_MIX_M02
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Administrator\OneDrive\Documents\IO ELECTRICAL - DRAWING.pdf
+OUT=C:\Users\Administrator\OneDrive\Documents\
+PWD=
+[MRU Local]
+MRU=0
+[MRU Sheet List]
+MRU=1
+File0=E:\Pekerjaan\AutoCad\MU AutoCad Sheet List.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=2400
+RasterResolution=600
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Unnamed Profile>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
