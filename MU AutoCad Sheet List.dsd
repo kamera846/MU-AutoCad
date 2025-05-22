@@ -534,9 +534,30 @@ Setup=MU Project Layout
 OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
 Has Plot Port=0
 Has3DDWF=0
+[DWF6Sheet:Kop & Safety Relay-Wiring Safety Relay Plant 1]
+DWG=C:\Users\Administrator\Downloads\Kop & Safety Relay.dwg
+Layout=Wiring Safety Relay Plant 1
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=C:\Users\Administrator\Downloads\Kop & Safety Relay.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Kop & Safety Relay-Wiring Safety Relay Plant 2]
+DWG=C:\Users\Administrator\Downloads\Kop & Safety Relay.dwg
+Layout=Wiring Safety Relay Plant 2
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=C:\Users\Administrator\Downloads\Kop & Safety Relay.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Kop & Safety Relay-Wiring Safety Relay Plant 3]
+DWG=C:\Users\Administrator\Downloads\Kop & Safety Relay.dwg
+Layout=Wiring Safety Relay Plant 3
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=C:\Users\Administrator\Downloads\Kop & Safety Relay.dwg
+Has Plot Port=0
+Has3DDWF=0
 [Target]
 Type=6
-DWF=C:\Users\Administrator\OneDrive\Documents\IO ELECTRICAL - DRAWING.pdf
+DWF=C:\Users\Administrator\OneDrive\Documents\Wiring Control Panel - Drawing.pdf
 OUT=C:\Users\Administrator\OneDrive\Documents\
 PWD=
 [MRU Local]
@@ -545,8 +566,8 @@ MRU=0
 MRU=1
 File0=E:\Pekerjaan\AutoCad\MU AutoCad Sheet List.dsd
 [PdfOptions]
-IncludeHyperlinks=TRUE
-CreateBookmarks=TRUE
+IncludeHyperlinks=FALSE
+CreateBookmarks=FALSE
 CaptureFontsInDrawing=TRUE
 ConvertTextToGeometry=FALSE
 VectorResolution=2400
@@ -566,7 +587,7 @@ SelectionSetName=
 AcadProfile=<<Unnamed Profile>>
 CategoryName=
 LogFilePath=
-IncludeLayer=TRUE
+IncludeLayer=FALSE
 LineMerge=FALSE
 CurrentPrecision=
 PromptForDwfName=TRUE
