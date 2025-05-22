@@ -527,6 +527,13 @@ Setup=MU Project Layout
 OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
 Has Plot Port=0
 Has3DDWF=0
+[DWF6Sheet:Plan 3-Power Supply]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Layout=Power Supply
+Setup=MU Project Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 3.dwg
+Has Plot Port=0
+Has3DDWF=0
 [Target]
 Type=6
 DWF=C:\Users\Administrator\OneDrive\Documents\IO ELECTRICAL - DRAWING.pdf
