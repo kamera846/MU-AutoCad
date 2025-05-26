@@ -2,9 +2,9 @@
 Ver=1
 [DWF6MinorVersion]
 MinorVer=1
-[DWF6Sheet:Plan 1-Card DI 1]
+[DWF6Sheet:Plan 1-Wiring Control Panel]
 DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
-Layout=Card DI 1
+Layout=Wiring Control Panel
 Setup=MU PROJECT LAYOUT
 OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Plan 1.dwg
 Has Plot Port=0
@@ -555,6 +555,13 @@ Setup=MU PROJECT LAYOUT
 OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Kop & Safety Relay.dwg
 Has Plot Port=0
 Has3DDWF=0
+[DWF6Sheet:Ups Backup Control-UPS Backup Control]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Ups Backup Control.dwg
+Layout=UPS Backup Control
+Setup=Project Mu Layout
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Ups Backup Control.dwg
+Has Plot Port=0
+Has3DDWF=0
 [Target]
 Type=6
 DWF=C:\Users\Administrator\OneDrive\Documents\Wiring Control Panel - Drawing.pdf
@@ -564,10 +571,10 @@ PWD=
 MRU=0
 [MRU Sheet List]
 MRU=1
-File0=E:\Pekerjaan\AutoCad\MU AutoCad Sheet List.dsd
+File0=E:\Pekerjaan\AutoCad\MU-AutoCad\MU AutoCad Sheet List.dsd
 [PdfOptions]
-IncludeHyperlinks=FALSE
-CreateBookmarks=FALSE
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
 CaptureFontsInDrawing=TRUE
 ConvertTextToGeometry=FALSE
 VectorResolution=2400
@@ -587,7 +594,7 @@ SelectionSetName=
 AcadProfile=<<Unnamed Profile>>
 CategoryName=
 LogFilePath=
-IncludeLayer=FALSE
+IncludeLayer=TRUE
 LineMerge=FALSE
 CurrentPrecision=
 PromptForDwfName=TRUE
