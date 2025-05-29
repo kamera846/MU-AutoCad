@@ -240,6 +240,27 @@ Setup=MU PROJECT LAYOUT
 OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\TB DO - Relay Out.dwg
 Has Plot Port=0
 Has3DDWF=0
+[DWF6Sheet:Kop & Safety Relay-Wiring Safety Relay Plant 1]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Kop & Safety Relay.dwg
+Layout=Wiring Safety Relay Plant 1
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Kop & Safety Relay.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Kop & Safety Relay-Wiring Safety Relay Plant 2]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Kop & Safety Relay.dwg
+Layout=Wiring Safety Relay Plant 2
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Kop & Safety Relay.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Kop & Safety Relay-Wiring Safety Relay Plant 3]
+DWG=E:\Pekerjaan\AutoCad\MU-AutoCad\Kop & Safety Relay.dwg
+Layout=Wiring Safety Relay Plant 3
+Setup=MU PROJECT LAYOUT
+OriginalSheetPath=E:\Pekerjaan\AutoCad\MU-AutoCad\Kop & Safety Relay.dwg
+Has Plot Port=0
+Has3DDWF=0
 [Target]
 Type=6
 DWF=C:\Users\Administrator\OneDrive\Documents\Wiring Control Panel - Revisi 5.pdf
